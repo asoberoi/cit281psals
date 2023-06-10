@@ -1,4 +1,4 @@
-## CIT 281 Projects and Labs 
+## Welcome to Amar’s CIT Minor Coursework
 
 https://github.com/asoberoi/cit281-p1.git
 
