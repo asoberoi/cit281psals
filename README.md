@@ -1,5 +1,7 @@
 ## Welcome to Amar’s CIT Minor Coursework
 
+![cit281 homepage pic ](https://github.com/asoberoi/cit281psals/assets/134101380/00ca5276-323f-46d8-83be-54a5131b76f1)
+
 https://github.com/asoberoi/cit281-p1.git
 
 https://github.com/asoberoi/cit281-p2.git
